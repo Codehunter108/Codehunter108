@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rishabh Paswan (Codehunter108)</h1>
-<h3 align="center">💻 Full Stack Web Developer in the making | CS Student (TYCS)</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Rishabh%20Paswan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20in%20the%20making&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Learning+JavaScript+%26+Node.js;Building+cool+stuff+one+repo+at+a+time;Consistency+%3E+Perfection" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </p>
 
 <p align="center">
@@ -59,6 +62,20 @@
 
 ---
 
+### 🌐 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Codehunter108/Codehunter108/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://profile-3d-contrib.vercel.app/profile-3d-contrib/?username=Codehunter108" width="100%" alt="3D contribution graph"/>
+</p>
+
+> 💡 Both widgets above need a one-time GitHub Action setup in your repo (I'll give you the exact steps below) — after that they update automatically every day.
+
+---
+
 ### 📌 Pinned Projects
 
 | Repo | About |
@@ -78,8 +95,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
 <p align="center"><i>"Progress, not perfection. Every expert was once a beginner."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer" width="100%"/>
